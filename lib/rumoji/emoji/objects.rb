@@ -299,6 +299,7 @@ module Rumoji
       self.new("\u{1f5b2}", [:trackball]),
       self.new("\u{1f5b1}", [:three_button_mouse]),
       self.new("\u{1f5a8}", [:printer]),
+      self.new("\u{1f5a5}", [:desktop]),
       self.new("\u{1f4bb}", [:desktop_computer]),
       self.new("\u{1f39b}", [:control_knobs]),
       self.new("\u{1f39a}", [:level_slider]),
